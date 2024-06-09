@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "redhat.vscode-yaml",
+        "ms-toolsai.jupyter-renderers",
+        "ms-toolsai.vscode-jupyter-slideshow",
+        "ms-toolsai.jupyter-keymap",
+        "ms-toolsai.jupyter"
+    ]
+}
